@@ -1,15 +1,15 @@
 import classes from "./Navbar.module.css"
-
+import CartWidget from "../CartWidget/CardWidget"
 
 const Navbar = () => {
     return (
         <header className={classes.header}>
-            <h4>Candy Shop</h4>
             <nav>
-                <a>Golosinas</a>
-                <a>Chocolates</a>
-                <a>Alfajores</a>
+                <button>Golosinas</button>
+                <button>Chocolates</button>
+                <button>Alfajores</button>
             </nav>
+            <CartWidget/>
         
         </header>
     )
