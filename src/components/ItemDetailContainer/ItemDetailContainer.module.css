@@ -1,0 +1,8 @@
+.detalle {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-size: 45px;
+    color: black;
+    font-family: "Ojuju", sans-serif;
+}

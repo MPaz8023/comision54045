@@ -1,0 +1,13 @@
+.articulo {
+    display: grid;
+    justify-content: center;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+
+.nombre {
+    color: green;
+    font-size: 50px;
+    font-family: "Ojuju", sans-serif;
+}

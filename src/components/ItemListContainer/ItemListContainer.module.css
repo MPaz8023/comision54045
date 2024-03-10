@@ -4,5 +4,12 @@
     font-family: "Ojuju", sans-serif;
     font-size: 50px;
 }
-
+.buscar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Ojuju", sans-serif;
+    font-size: 70px;
+    color: blueviolet;
+}
 
