@@ -5,9 +5,8 @@ import ItemListContainer from "./components/ItemListContainer/ItemListContainer"
 function App() {
   return (
     <>
-      <h1>Candy Shop</h1>
       <Navbar/>
-      <ItemListContainer greeting={"Bienvenidos al mundo Candy"}/>
+      <ItemListContainer greeting={"¡Bienvenidos al Mundo Candy!"}/>
 
       
     </>
