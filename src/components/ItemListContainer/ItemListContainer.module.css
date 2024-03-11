@@ -12,4 +12,12 @@
     font-size: 70px;
     color: blueviolet;
 }
+.listado {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    
+    
+
+}
 
